@@ -1,2 +1,2 @@
 # GetToThePortal
- Co-op
+ Co-op themed game
